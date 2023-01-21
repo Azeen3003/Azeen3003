@@ -3,6 +3,7 @@
 - 📚 I'm currently pursuing a B.Tech in Artificial Intelligence and Data Science in Government College of Engineering, Ratnagiri.
 - 🌱 I’m currently learning Data Structures and Algorithms in Python
 - 📫 How to reach me: azeenhodekar@gmail.com
+- CodeWars profile <img src="https://www.codewars.com/users/Azeen3003/badges/small">
 <!--
 **Azeen3003/Azeen3003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
