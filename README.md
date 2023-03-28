@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🙂 My name is Azeen Hodekar.
 - 📚 I'm currently pursuing a B.Tech in Artificial Intelligence and Data Science in Government College of Engineering, Ratnagiri.
-- 🌱 I’m currently learning Data Structures and Algorithms in Python. 
+- 🌱 I’m currently learning Data Analysis in Python. 
 - 🔭 I’m currently working on creating a few simple projects in Python.
 - 📫 How to reach me: azeenhodekar@gmail.com
 - CodeWars profile : <img src="https://www.codewars.com/users/Azeen3003/badges/small">
