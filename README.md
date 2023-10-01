@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on creating a few simple projects in Python.
 - 📫 How to reach me: azeenhodekar@gmail.com
 - CodeWars profile : <img src="https://www.codewars.com/users/Azeen3003/badges/small">
+- Holopin board :
 [![An image of @azeen3003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/azeen3003)](https://holopin.io/@azeen3003)
 
 <!--
